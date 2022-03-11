@@ -1,0 +1,20 @@
+.boxRadio {
+  display: flex;
+  flex-direction: column;
+}
+
+.labelRadioInput {
+  display: flex;
+  align-content: center;
+  align-content: center;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 16px;
+}
+
+.inputRadio {
+  font-size: 16px;
+  width: 20px;
+  height: 20px;
+}
